@@ -6,7 +6,7 @@ Hi, I'm Charulatha 👋
 
 I'm an Information Technology student passionate about software development, problem solving, and building real-world applications. I'm currently strengthening my programming fundamentals and exploring the technologies that will help me become a professional Software Developer.
 ---
-👩‍💻 About Me
+👩‍💻 About Me 
 
 🎓 Education: B.Tech – Information Technology
 💻 Career Goal: Software Developer
