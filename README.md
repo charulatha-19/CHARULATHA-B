@@ -5,9 +5,7 @@ Hi, I'm Charulatha 👋
 «Learning today. Building tomorrow. 🚀»
 
 I'm an Information Technology student passionate about software development, problem solving, and building real-world applications. I'm currently strengthening my programming fundamentals and exploring the technologies that will help me become a professional Software Developer.
-
 ---
-
 👩‍💻 About Me
 
 🎓 Education: B.Tech – Information Technology
@@ -16,29 +14,7 @@ I'm an Information Technology student passionate about software development, pro
 🧠 Interested In: Software Development, Backend Development, Databases & Problem Solving
 🚀 Long-Term Goal: Build impactful software and contribute to real-world projects
 ⚡ Mindset: Learn → Build → Improve → Repeat
-
 ---
-
-🛠️ Tech Stack
-
-Programming
-
-"C" "Python" "Java" (Learning)
-
-Web Development
-
-"HTML" "CSS" "JavaScript" (Learning)
-
-Database
-
-"MySQL" (Learning)
-
-Tools
-
-"Git" "GitHub" "VS Code"
-
----
-
 📚 Currently Learning
 
 - 🔹 C Programming & Problem Solving
@@ -88,11 +64,7 @@ Working towards creating practical applications that solve real-world problems.
 🗄️ Database Projects
 
 Learning how applications store, manage and retrieve information using SQL and databases.
-
-«🚧 More projects coming soon...»
-
 ---
-
 🧠 My Developer Journey
 
 2026 — Started my journey in Information Technology 🎓
@@ -102,9 +74,7 @@ Learning how applications store, manage and retrieve information using SQL and d
 → Moving towards Backend Development
 → Building real-world projects
 → Preparing for Software Development opportunities 🚀
-
 ---
-
 🎯 2026 Goals
 
 - [ ] Strengthen C programming
@@ -116,17 +86,7 @@ Learning how applications store, manage and retrieve information using SQL and d
 - [ ] Build backend applications
 - [ ] Contribute to open-source projects
 - [ ] Create a strong software development portfolio
-
 ---
-
-📊 GitHub Journey
-
-I use GitHub to document my learning, practice programming, build projects, and track my progress as I grow from a beginner into a professional developer.
-
-Every repository is a step forward. 🚀
-
----
-
 🌱 Beyond Coding
 
 ✨ Continuous learning
@@ -135,19 +95,4 @@ Every repository is a step forward. 🚀
 🤝 Teamwork & collaboration
 🎯 Building confidence
 📈 Improving every day
-
 ---
-
-📫 Let's Connect
-
-💼 LinkedIn: "Your LinkedIn" (YOUR_LINKEDIN_LINK)
-🐙 GitHub: "Your GitHub" (YOUR_GITHUB_LINK)
-📧 Email: "Your Email" (YOUR_EMAIL)
-
----
-
-💭 Developer Mindset
-
-«"Don't just learn technology. Learn how to use it to solve problems."»
-
-⭐ Thanks for visiting my profile!
